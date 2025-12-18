@@ -14,6 +14,7 @@ __pycache__/
 Thumbs.db
 
 # Model outputs
+weights/
 *.pth
 *.pt
 
@@ -21,3 +22,4 @@ Thumbs.db
 *.tif
 *.npy
 outputs/
+
