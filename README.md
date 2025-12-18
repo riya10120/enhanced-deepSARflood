@@ -38,6 +38,10 @@ Associate Faculty, Yardi School of Artificial Intelligence
 Indian Institute of Technology Delhi   
 Contact: [msaharia@iitd.ac.in](msaharia@iitd.ac.in)
 
+## Acknowledgment
+This project is based on the DeepSARFlood framework developed by HydroSenseLab.
+The codebase has been modified and extended for academic purposes.
+
 <p float="left">
   <img src="https://i.imgur.com/qVGTGwT.png" width=20% height=20% />
   <img src="https://i.imgur.com/6giJLL8.png" width=20% height=20% />
